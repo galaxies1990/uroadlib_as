@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etclib/etclib.iml" filepath="$PROJECT_DIR$/etclib/etclib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaodemaplib/gaodemaplib.iml" filepath="$PROJECT_DIR$/gaodemaplib/gaodemaplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uroadbaselib/uroadbaselib.iml" filepath="$PROJECT_DIR$/uroadbaselib/uroadbaselib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uroadlib_as.iml" filepath="$PROJECT_DIR$/uroadlib_as.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uroaduilib/uroaduilib.iml" filepath="$PROJECT_DIR$/uroaduilib/uroaduilib.iml" />
+    </modules>
+  </component>
+</project>
